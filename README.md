@@ -51,7 +51,7 @@ Predicted characters are displayed and can be stored to form words.
 | ☝ Index Finger | Draw on canvas |
 | ✌ Two Fingers | Select drawing color |
 | 🤟 Three Fingers | Erase drawing |
-| 🖐 Five Fingers | Save predicted letter |
+| 🖐 Four Fingers | Save predicted letter |
 
 ---
 
@@ -249,16 +249,3 @@ Example:
 Air Canvas AI demonstrates how computer vision and deep learning can transform human-computer interaction. By replacing traditional input devices with gesture-based writing, the system provides a more natural and intuitive way to interact with digital systems.
 
 The project showcases the power of combining **OpenCV, MediaPipe, and TensorFlow** to create intelligent real-time applications.
-
----
-
-# 👨‍💻 Author
-
-**Anfas**
-
-GitHub  
-https://github.com/anfas-02
-
----
-
-⭐ If you like this project, give it a star on GitHub!
